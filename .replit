@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ -Wall -g -o test festival.cpp && ./test < input.txt"
+run = "g++ -Wall -g -o test lis.cpp && ./test < input.txt"
